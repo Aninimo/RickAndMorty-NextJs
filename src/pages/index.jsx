@@ -19,9 +19,9 @@ export default function Home({data}) {
   const {info,results: defaultResults = []} = data
   const[results,updateResults] = useState(defaultResults)
   const[page,updatePage] = useState({
-...info,
-current: defaultEndpoint
-})
+    ...info,
+    current: defaultEndpoint
+  })
 
   const { current } = page
 
