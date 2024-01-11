@@ -1,9 +1,7 @@
 # RickAndMorty-NextJs
 
 # Sobre 
-A aplicação faz uma busca pelo personagem
-digitado pelo usuário,e ao ser clicado
-exibe mais algumas informações sobre ele.
+Com o objetivo de aprimorar minhas habilidades e aprender mais sobre o consumo de APIs com Next.js, elaborei este pequeno projeto. Nele, basta digitar o nome de um personagem e, ao clicar, serão exibidas informações adicionais sobre o mesmo.
 
 ## Link
 <a href='https://rick-and-morty-next-js-delta.vercel.app/'>rickAndMorty</a>
